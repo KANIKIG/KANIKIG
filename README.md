@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANIKIG&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
 
 <!--
