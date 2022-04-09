@@ -1,4 +1,4 @@
-![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANIKIG&count_private=true)
+![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANIKIG&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANIKIG&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋
