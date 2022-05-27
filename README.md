@@ -1,16 +1,18 @@
+
+
+## Hi there 👋, I'm KANIKIG
+
+### Github Stats
+
 ![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANIKIG&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANIKIG&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,NASL,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://steamcard.vercel.app/card/76561198840426561/badge,group)
+![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group)
 
-### Hi there 👋
-
-[![KANIKIG's github activity graph](https://activity-graph.herokuapp.com/graph?username=KANIKIG&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Star History
+### Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KANIKIG/Multi-EasyGost&type=Date)](https://star-history.com/#KANIKIG/Multi-EasyGost&Date)
 
