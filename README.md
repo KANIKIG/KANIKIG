@@ -1,7 +1,8 @@
 
 
 ## Hi there 👋, I'm KANIKIG
-[![github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kanikig)
+[![blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://blog.kanikig.xyz)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kanikig)
 [![github](https://img.shields.io/badge/KANIKIG-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KANIKIG/)
 [![profile](https://komarev.com/ghpvc/?username=KANIKIG&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/KANIKIG)
 
@@ -11,7 +12,7 @@ I code with : 👇
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-My steamcard : 👇
+My SteamCard : 👇
 
 ![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group)
 
