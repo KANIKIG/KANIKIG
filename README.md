@@ -2,7 +2,9 @@
 
 ## Hi there 👋, I'm KANIKIG
 
-### Github Stats
+![profile](https://komarev.com/ghpvc/?username=KANIKIG)
+
+### 📊 Github Stats
 
 ![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANIKIG&count_private=true&show_icons=true&theme=tokyonight)
 
@@ -12,7 +14,7 @@
 
 ![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group)
 
-### Star History
+### 📈 Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KANIKIG/Multi-EasyGost&type=Date)](https://star-history.com/#KANIKIG/Multi-EasyGost&Date)
 
