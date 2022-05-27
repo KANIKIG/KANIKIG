@@ -8,6 +8,11 @@
 
 ### Hi there 👋
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=KANIKIG/Multi-EasyGost&type=Date)](https://star-history.com/#KANIKIG/Multi-EasyGost&Date)
+
+
 <!--
 **KANIKIG/KANIKIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
