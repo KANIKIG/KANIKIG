@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANIKIG&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,NASL,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=react-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://steamcard.vercel.app/card/76561198840426561/badge,group)
 
