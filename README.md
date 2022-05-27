@@ -1,9 +1,15 @@
 
 
 ## Hi there 👋, I'm KANIKIG
-
-[![github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/KANIKIG)
+[![github](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kanikig)
+[![github](https://img.shields.io/badge/KANIKIG-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KANIKIG/)
 [![profile](https://komarev.com/ghpvc/?username=KANIKIG&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/KANIKIG)
+
+I code with : 👇
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 📊 Github Stats
 
