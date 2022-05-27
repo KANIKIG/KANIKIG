@@ -19,7 +19,7 @@ I am engaged in scientific research in the field of engineering. I am coding jus
 
 ### 🎮 My SteamCard 👇
 
-![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group)
+![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group,en)
 
 ### 📊 Github Stats
 
