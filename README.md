@@ -8,6 +8,8 @@
 
 ### Hi there 👋
 
+[![KANIKIG's github activity graph](https://activity-graph.herokuapp.com/graph?username=KANIKIG)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=KANIKIG/Multi-EasyGost&type=Date)](https://star-history.com/#KANIKIG/Multi-EasyGost&Date)
