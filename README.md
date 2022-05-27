@@ -11,21 +11,21 @@ I code with : 👇
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
+My steamcard : 👇
+
+![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group)
+
 ### 📊 Github Stats
 
 ![KANIKIG's GitHub stats](https://github-readme-stats.vercel.app/api?username=KANIKIG&count_private=true&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KANIKIG&layout=compact&theme=tokyonight&hide=Jupyter%20Notebook,NASL,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group)
-
 ### 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=KANIKIG/Multi-EasyGost&type=Date)](https://star-history.com/#KANIKIG/Multi-EasyGost&Date)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=tokyonight)](https://github.com/KANIKIG/Multi-EasyGost)
 
-
+[![Star History Chart](	https://starchart.cc/KANIKIG/Multi-EasyGost.svg)](https://github.com/KANIKIG/Multi-EasyGost)
 <!--
 **KANIKIG/KANIKIG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
