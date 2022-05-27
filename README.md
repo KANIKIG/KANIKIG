@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm KANIKIG
 
-![profile](https://komarev.com/ghpvc/?username=KANIKIG)
+![profile](https://komarev.com/ghpvc/?username=KANIKIG&style=flat-square)
 
 ### 📊 Github Stats
 
