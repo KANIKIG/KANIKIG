@@ -8,8 +8,7 @@ I am engaged in scientific research in the field of engineering. I am coding jus
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kanikig2)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kanikig)
-[![RSS3](https://badge.rss3.workers.dev/?version=v0.3.1&style=for-the-badge)](https://revery.so/u/0xf0840c56A1d7FCdF83f792657c9C02016B96224F)
-[![blog](https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hexo&logoColor=white)](https://blog.kanikig.xyz)
+[![blog](https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white)](https://blog.kanikig.xyz)
 [![github](https://img.shields.io/badge/KANIKIG-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KANIKIG/)
 [![profile](https://komarev.com/ghpvc/?username=KANIKIG&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/KANIKIG)
 
@@ -18,10 +17,6 @@ I am engaged in scientific research in the field of engineering. I am coding jus
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 🎮 My SteamCard 👇
-
-![steamcard](https://steamcard.vercel.app/card/76561198840426561/badge,group,en)
 
 ### 📊 Github Stats
 
