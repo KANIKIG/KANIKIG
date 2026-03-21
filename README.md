@@ -6,9 +6,7 @@ I am engaged in scientific research in the field of engineering. I am coding jus
 
 ### 🔍 Where to find me
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/kanikig2)
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kanikig)
-[![blog](https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white)](https://blog.kanikig.xyz)
 [![github](https://img.shields.io/badge/KANIKIG-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KANIKIG/)
 [![profile](https://komarev.com/ghpvc/?username=KANIKIG&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)](https://github.com/KANIKIG)
 
