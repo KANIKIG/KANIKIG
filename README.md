@@ -15,7 +15,6 @@ I code for fun.
 <div align="center">
   <a href="https://github.com/KANIKIG/Multi-EasyGost"><img width="49%" alt="Multi-EasyGost" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=tokyonight&description_lines_count=2"></a>
   <a href="https://github.com/KANIKIG/wechat-search-weread"><img width="49%" alt="wechat-search-weread" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=KANIKIG&repo=wechat-search-weread&theme=tokyonight&description_lines_count=2"></a>
-  <a href="https://github.com/KANIKIG/Multi-EasyGost"><img width="70%" alt="Multi-EasyGost Star History" src="https://www.repostars.dev/api/embed?repo=KANIKIG/Multi-EasyGost&amp;theme=dark"></a>
 </div>
 
 ## Open-source contributions
