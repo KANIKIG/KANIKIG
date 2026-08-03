@@ -12,64 +12,30 @@ Engineering researcher who codes for fun and contributes fixes back to the open-
 
 ## Open-source contributions
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/verl-project/verl/pull/7199">verl-project/verl · #7199</a></h3>
-      <p>Preserved generation configuration while merging Megatron checkpoints.</p>
-      <a href="https://github.com/verl-project/verl/pull/7199"><img alt="Merged PR 7199" src="https://img.shields.io/badge/PR%20%237199-merged-8957e5?style=flat-square&logo=github"></a>
-      <a href="https://github.com/verl-project/verl"><img alt="verl stars" src="https://img.shields.io/github/stars/verl-project/verl?style=flat-square&logo=github&label=stars"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/hiyouga/EasyR1/pull/11007">hiyouga/EasyR1 · #11007</a></h3>
-      <p>Preserved generation configuration during checkpoint model merges.</p>
-      <a href="https://github.com/hiyouga/EasyR1/pull/11007"><img alt="Merged PR 11007" src="https://img.shields.io/badge/PR%20%2311007-merged-8957e5?style=flat-square&logo=github"></a>
-      <a href="https://github.com/hiyouga/EasyR1"><img alt="EasyR1 stars" src="https://img.shields.io/github/stars/hiyouga/EasyR1?style=flat-square&logo=github&label=stars"></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/verl-project/verl/pull/7199"><img width="49%" alt="My contribution to verl" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=verl-project&repo=verl&theme=tokyonight&show_owner=true&description_lines_count=2"></a>
+  <a href="https://github.com/hiyouga/EasyR1/pull/11007"><img width="49%" alt="My contribution to EasyR1" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=hiyouga&repo=EasyR1&theme=tokyonight&show_owner=true&description_lines_count=2"></a>
+  <br>
+  <a href="https://github.com/verl-project/verl/pull/7199"><img alt="Merged verl PR 7199" src="https://img.shields.io/badge/verl-PR%20%237199%20merged-8957e5?style=flat-square&logo=github"></a>
+  <a href="https://github.com/hiyouga/EasyR1/pull/11007"><img alt="Merged EasyR1 PR 11007" src="https://img.shields.io/badge/EasyR1-PR%20%2311007%20merged-8957e5?style=flat-square&logo=github"></a>
+</div>
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KANIKIG/Multi-EasyGost">Multi-EasyGost</a></h3>
-      <p>A beginner-friendly, multi-platform management script for GOST.</p>
-      <a href="https://github.com/KANIKIG/Multi-EasyGost"><img alt="Multi-EasyGost stars" src="https://img.shields.io/github/stars/KANIKIG/Multi-EasyGost?style=flat-square&logo=github&label=stars"></a>
-      <a href="https://github.com/KANIKIG/Multi-EasyGost/network/members"><img alt="Multi-EasyGost forks" src="https://img.shields.io/github/forks/KANIKIG/Multi-EasyGost?style=flat-square&logo=github&label=forks"></a>
-      <a href="https://github.com/KANIKIG/Multi-EasyGost"><img alt="Multi-EasyGost language" src="https://img.shields.io/github/languages/top/KANIKIG/Multi-EasyGost?style=flat-square"></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/KANIKIG/wechat-search-weread">wechat-search-weread</a></h3>
-      <p>A skill for searching WeChat Official Account articles.</p>
-      <a href="https://github.com/KANIKIG/wechat-search-weread"><img alt="wechat-search-weread stars" src="https://img.shields.io/github/stars/KANIKIG/wechat-search-weread?style=flat-square&logo=github&label=stars"></a>
-      <a href="https://github.com/KANIKIG/wechat-search-weread/network/members"><img alt="wechat-search-weread forks" src="https://img.shields.io/github/forks/KANIKIG/wechat-search-weread?style=flat-square&logo=github&label=forks"></a>
-      <a href="https://github.com/KANIKIG/wechat-search-weread"><img alt="wechat-search-weread language" src="https://img.shields.io/github/languages/top/KANIKIG/wechat-search-weread?style=flat-square"></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/KANIKIG/Multi-EasyGost"><img width="49%" alt="Multi-EasyGost" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=KANIKIG&repo=Multi-EasyGost&theme=tokyonight&description_lines_count=2"></a>
+  <a href="https://github.com/KANIKIG/wechat-search-weread"><img width="49%" alt="wechat-search-weread" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=KANIKIG&repo=wechat-search-weread&theme=tokyonight&description_lines_count=2"></a>
+</div>
 
 ## GitHub at a glance
 
 <div align="center">
 
-[![GitHub statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast"><img height="180" alt="KANIKIG's GitHub statistics" src="https://github-readme-stats-fast.vercel.app/api?username=KANIKIG&show_icons=true&theme=tokyonight&hide_border=true&show=prs_merged,reviews"></a>
+<a href="https://github.com/Pranesh-2005/github-readme-stats-fast"><img height="180" alt="KANIKIG's most used languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KANIKIG&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,NASL,Makefile"></a>
 
-![KANIKIG's contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=KANIKIG&theme=github-compact&hide_border=true&area=true)
+[![KANIKIG's contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=KANIKIG&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-![KANIKIG's contribution streak](https://streak-stats.demolab.com?user=KANIKIG&theme=tokyonight&hide_border=true)
-
-</div>
-
-## Stars across my projects
-
-The badge is the live account total; the chart is rebuilt weekly across my accessible public, non-fork repositories.
-
-<div align="center">
-
-[![Total stars](https://img.shields.io/github/stars/KANIKIG?affiliations=OWNER&style=for-the-badge&logo=github&label=total%20stars&color=gold)](https://github.com/KANIKIG?tab=repositories)
-
-![Cumulative star history across KANIKIG's projects](assets/star-history.svg)
+[![KANIKIG's contribution streak](https://streak-stats.demolab.com?user=KANIKIG&theme=tokyonight&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 </div>
