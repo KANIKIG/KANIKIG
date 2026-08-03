@@ -54,6 +54,12 @@ I code for fun.
 
 <div align="center">
 
-[![KANIKIG's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KANIKIG&theme=github-compact&hide_border=true&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<a href="https://gh-heat.anishroy.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gh-heat.anishroy.com/api/KANIKIG/svg?theme=blue&darkMode=true&mobile=true&showMonthLabels=true&showDayLabels=false&showLegend=false" />
+    <source media="(prefers-color-scheme: light)" srcset="https://gh-heat.anishroy.com/api/KANIKIG/svg?theme=blue&darkMode=false&mobile=true&showMonthLabels=true&showDayLabels=false&showLegend=false" />
+    <img alt="KANIKIG's yearly contribution graph" src="https://gh-heat.anishroy.com/api/KANIKIG/svg?theme=blue&darkMode=false&mobile=true&showMonthLabels=true&showDayLabels=false&showLegend=false" />
+  </picture>
+</a>
 
 </div>
