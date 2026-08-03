@@ -17,6 +17,18 @@ I code for fun.
   <a href="https://github.com/KANIKIG/wechat-search-weread"><img width="49%" alt="wechat-search-weread" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=KANIKIG&repo=wechat-search-weread&theme=tokyonight&description_lines_count=2"></a>
 </div>
 
+## Star History
+
+<div align="center">
+  <a href="https://www.star-history.com/?repos=KANIKIG%2FMulti-EasyGost&amp;type=date&amp;legend=top-left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=KANIKIG/Multi-EasyGost&amp;type=date&amp;theme=dark&amp;legend=top-left&amp;sealed_token=jgrVhCfT859LseDuL3xfpO86i6FQklWu6O6mG7yGwjI_OR1Yr93ahLkqIn3xQVF6xT7qp8Lbj7T3CRF4803D7KaTXyP9FTxeenKmt1uNxyZsZgQPP265rA">
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=KANIKIG/Multi-EasyGost&amp;type=date&amp;legend=top-left&amp;sealed_token=jgrVhCfT859LseDuL3xfpO86i6FQklWu6O6mG7yGwjI_OR1Yr93ahLkqIn3xQVF6xT7qp8Lbj7T3CRF4803D7KaTXyP9FTxeenKmt1uNxyZsZgQPP265rA">
+      <img width="70%" alt="Multi-EasyGost Star History" src="https://api.star-history.com/chart?repos=KANIKIG/Multi-EasyGost&amp;type=date&amp;legend=top-left&amp;sealed_token=jgrVhCfT859LseDuL3xfpO86i6FQklWu6O6mG7yGwjI_OR1Yr93ahLkqIn3xQVF6xT7qp8Lbj7T3CRF4803D7KaTXyP9FTxeenKmt1uNxyZsZgQPP265rA">
+    </picture>
+  </a>
+</div>
+
 ## Open-source contributions
 
 <div align="center">
